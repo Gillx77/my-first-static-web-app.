@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+img src {
+            width:0;
+            height: 0;
+            border-radius: 0px;
+        }
+
+ <meta charset="UTF-8">
+    <meta name="viewport" content="width=200, initial-scale=1.0">
+    <title> DPS Khanna </title>
+    <link rel="stylesheet" href="styles.css">
+   </style>
+</head>
+
+<body>
+    <header>
+        <h1> DPS Khanna </h1>
+        <img src="C:\Users\simra\Downloads\DPS pic 1.jpeg" alt="College photo">
+       
+    </header>
+    <section>
+        <h2>Welcome to DPS Khanna  </h2>
+        <p>Education is a means for emancipation. It is the light that fills hope in every heart. The idea of holistic education as envisaged by philosophers and thinkers, is to make learning accessible, enjoyable and meaningful to the seekers. At Delhi Public School Khanna we strive hard to achieve this goal.
+
+The National Education Policy 2020 is our guiding light. We promote equity and equality in education and create learning experiences to suit individual needs. Our aim is to foster a scientific temperament, a sense of awareness of the self and our surroundings, respect for our heritage and a global outlook. As a school leader my endeavour is to create and support a culture of collaboration and promote creativity, critical thinking and inclusion.
+
+I seek support and cooperation of the parents and the larger community to meet the goals we have set for our beloved students. Let’s join hands to provide them a fear-free, emotionally and physically secure learning environment to bring out the best in them.</p>
+    </section>
+    <footer>
+    SUMMERS
+Summer: (April to October) Monday to Friday
+Pre-Primary ( Pre-Nursery, Nursery & Prep ): 9:00 am to 12:30 pm.
+Grade I to Grade X : 8:00 am to 2:00 pm.
+Grade XI & XII: 8:00 am to 12:30 pm.
+WINTERS
+Winter: (November to March) Monday to Friday
+Pre-Primary ( Pre-Nursery, Nursery & Prep ): 9:30 am to 1:00 pm.
+Grade I to Grade X : 8:30 am to 2:30 pm.
+Grade XI & XII: 8:30 am to 1:00 pm.
+SATURDAY
+Second Saturday will remain off for all grades. ( Please refer to the school calendar also.)
+For Pre Primary section all Saturdays are off.
+    </footer>
+</body>
+</html>
